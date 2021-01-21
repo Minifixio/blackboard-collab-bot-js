@@ -23,7 +23,7 @@
     "puppeteer": "^3.0.1",
     "request": "^2.88.2",
     "say": "^0.16.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "svg-path-properties": "^1.0.4"
   }
 }
